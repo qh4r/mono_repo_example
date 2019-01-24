@@ -1,10 +1,10 @@
 {
   "name": "sw_app",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "private": true,
   "dependencies": {
-    "@qh4r/library": "^1.0.6",
-    "@qh4r/localization": "^1.0.6",
+    "@qh4r/library": "^1.0.7",
+    "@qh4r/localization": "^1.0.7",
     "classnames": "^2.2.6",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
